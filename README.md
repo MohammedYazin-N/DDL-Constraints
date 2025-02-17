@@ -33,7 +33,9 @@ DEFAULT – Assigns a default value if none is provided.
 
 AUTO_INCREMENT – Automatically generates unique values for primary keys.
 
+# Conclusion:
 
+This project demonstrates how DDL constraints enhance database reliability by enforcing data integrity at the structural level. By implementing these constraints, we can ensure that our MySQL database adheres to strict validation rules, preventing incorrect or inconsistent data entry.
 
 Happy coding! 🚀
 
